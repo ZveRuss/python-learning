@@ -1,6 +1,3 @@
-echo "# python-learning" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin git@github.com:ZveRuss/python-learning.git
+git add *
+git commit -m "test commit"
 git push -u origin master
